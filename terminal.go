@@ -1,4 +1,4 @@
-package helper
+package terminal_confirm
 
 import (
 	"fmt"
